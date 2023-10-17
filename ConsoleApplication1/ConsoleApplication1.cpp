@@ -1,4 +1,4 @@
-﻿//all open code
+﻿//all open code 111
 
 #include <iostream>
 #include <fstream>
@@ -60,7 +60,7 @@ void generateByteArrayHeader(const std::string& filename, const std::string& arr
     inputFile.close();
     outputFile.close();
 }
-//outputFile
+//outputFile user settings
 int main() {
     std::string filename;
     std::cout << "Enter filename: ";
